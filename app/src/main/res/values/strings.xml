@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Catatan</string>
+    <string name="selamat_datang_di_aplikasi_catatan">Selamat datang di Aplikasi Catatan</string>
+    <string name="already_have_account">Already Have Account</string>
+    <string name="need_a_new_account">Need a new Account</string>
+    <string name="sing_in">Sign in</string>
+    <string name="password">Password</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="register">Register</string>
+    <string name="todo">TODO</string>
+</resources>

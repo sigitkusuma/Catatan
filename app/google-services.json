@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "552033234519",
+    "firebase_url": "https://catatan-15b4b.firebaseio.com",
+    "project_id": "catatan-15b4b",
+    "storage_bucket": "catatan-15b4b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552033234519:android:04fe71ad30350e3f",
+        "android_client_info": {
+          "package_name": "com.kusuma.catatan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552033234519-72bmdkcf5pru0hc93bng9ojb1rqtfkeb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kusuma.catatan",
+            "certificate_hash": "f30601ce1f5d8fe42cbbd43131322a0c5993f3df"
+          }
+        },
+        {
+          "client_id": "552033234519-5kntcufm1ljt1j8g3384g28i68m2dsca.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCndoWT6C0iBjeEABwycwgxnBMeLCo5z2g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552033234519-5kntcufm1ljt1j8g3384g28i68m2dsca.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
