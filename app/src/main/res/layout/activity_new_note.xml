@@ -15,8 +15,10 @@
             android:layout_height="wrap_content"
             android:background="@android:color/transparent"
             android:fontFamily="casual"
-            android:hint="Tulis Judul Catatan Disini..."
-            android:padding="10dp" />
+            android:hint="@string/tulis_judul_catatan_disini"
+            android:padding="10dp"
+            android:importantForAutofill="no"
+            android:inputType="text" />
         <View
             android:layout_width="match_parent"
             android:layout_height="1dp"
@@ -29,23 +31,24 @@
         <EditText
             android:id="@+id/new_note_content"
             android:layout_width="match_parent"
-            android:layout_height="match_parent"
+            android:layout_height="0dp"
             android:layout_gravity="top|center_vertical"
             android:layout_weight="1"
             android:background="@android:color/transparent"
             android:ems="10"
             android:fontFamily="casual"
             android:gravity="top"
-            android:hint="Tulis Deskripsi Disini ..."
+            android:hint="@string/tulis_deskripsi_disini"
             android:inputType="textMultiLine"
-            android:padding="10dp" />
+            android:padding="10dp"
+            android:importantForAutofill="no" />
         <Button
             android:id="@+id/new_note_btn"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:background="@drawable/create_btn"
             android:fontFamily="casual"
-            android:text="Buat Catatan"
+            android:text="@string/buat_catatan"
             android:textColor="@android:color/white" />
     </LinearLayout>
 </android.support.constraint.ConstraintLayout>

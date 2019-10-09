@@ -4,9 +4,15 @@
     <string name="already_have_account">Already Have Account</string>
     <string name="need_a_new_account">Need a new Account</string>
     <string name="sing_in">Sign in</string>
-    <string name="password">Password</string>
     <string name="name">Name</string>
-    <string name="email">Email</string>
     <string name="register">Register</string>
-    <string name="todo">TODO</string>
+    <string name="note_title">Note Title</string>
+    <string name="update_time">Update time</string>
+    <string name="todo">todo</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="log_in">Log In</string>
+    <string name="tulis_judul_catatan_disini">Tulis Judul Catatan Disini...</string>
+    <string name="tulis_deskripsi_disini">Tulis Deskripsi Disini ...</string>
+    <string name="buat_catatan">Buat Catatan</string>
 </resources>
